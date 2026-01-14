@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajnish Chauhan</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **SpringBoot**
 
